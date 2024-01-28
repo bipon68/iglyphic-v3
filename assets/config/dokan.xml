@@ -1,0 +1,25 @@
+<resources>
+    <group name="required">
+        <js>https://code.jquery.com/jquery-3.6.4.js</js>
+        <js>/assets/backend/js/layout.js</js>
+        <css>/assets/backend/css/bootstrap.min.css</css>
+<!--        <css>/assets/backend/css/icons.min.css</css>-->
+        <css>/assets/backend/css/app.min.css</css>
+        <css>/assets/backend/css/custom.min.css</css>
+<!--        <css>https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/fontawesome.min.css</css>-->
+
+        <js>/assets/backend/libs/bootstrap/js/bootstrap.bundle.min.js</js>
+        <js>/assets/backend/libs/simplebar/simplebar.min.js</js>
+        <js>/assets/backend/js/pages/plugins/lord-icon-2.1.0.js</js>
+        <js>/assets/backend/js/plugins.js</js>
+        <js>/assets/backend/js/pages/password-addon.init.js</js>
+        <js>/assets/backend/libs/apexcharts/apexcharts.min.js</js>
+        <js>/assets/backend/libs/jsvectormap/js/jsvectormap.min.js</js>
+        <js>/assets/backend/libs/jsvectormap/maps/world-merc.js</js>
+        <js>/assets/backend/libs/swiper/swiper-bundle.min.js</js>
+        <js>/assets/backend/js/app.js</js>
+        <js>/assets/backend/js/custom.js</js>
+
+    </group>
+
+</resources>

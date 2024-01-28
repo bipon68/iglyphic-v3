@@ -1,0 +1,36 @@
+<resources>
+    <group name="required">
+        <js>https://code.jquery.com/jquery-3.6.4.js</js>
+        <css>/assets/frontend/css/preloader.css</css>
+        <css>/assets/frontend/css/bootstrap.min.css</css>
+        <css>/assets/frontend/css/slick.css</css>
+        <css>/assets/frontend/css/meanmenu.css</css>
+        <css>/assets/frontend/css/owl.carousel.min.css</css>
+        <css>/assets/frontend/css/animate.min.css</css>
+        <css>/assets/frontend/css/backToTop.css</css>
+        <css>/assets/frontend/css/jquery.fancybox.min.css</css>
+        <css>/assets/frontend/css/fontAwesome5Pro.css</css>
+        <css>/assets/frontend/css/elegantFont.css</css>
+        <css>/assets/frontend/css/imagetooltip.min.css</css>
+        <css>/assets/frontend/css/default.css</css>
+        <css>/assets/frontend/css/style.css</css>
+
+        <js>/assets/frontend/js/vendor/waypoints.min.js</js>
+        <js>/assets/frontend/js/bootstrap.bundle.min.js</js>
+        <js>/assets/frontend/js/jquery.meanmenu.js</js>
+        <js>/assets/frontend/js/slick.min.js</js>
+        <js>/assets/frontend/js/jquery.fancybox.min.js</js>
+        <js>/assets/frontend/js/isotope.pkgd.min.js</js>
+        <js>/assets/frontend/js/parallax.min.js</js>
+        <js>/assets/frontend/js/owl.carousel.min.js</js>
+        <js>/assets/frontend/js/backToTop.js</js>
+        <js>/assets/frontend/js/jquery.counterup.min.js</js>
+        <js>/assets/frontend/js/ajax-form.js</js>
+        <js>/assets/frontend/js/wow.min.js</js>
+        <js>/assets/frontend/js/imagetooltip.min.js</js>
+        <js>/assets/frontend/js/imagesloaded.pkgd.min.js</js>
+        <js>/assets/frontend/js/main.js</js>
+
+    </group>
+
+</resources>

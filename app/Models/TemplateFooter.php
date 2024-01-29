@@ -35,6 +35,7 @@ class TemplateFooter
                                             </ul>
                                         </div>
                                     </div>
+                                    <a href=\"https://www.buymeacoffee.com/bipon770j\" target=\"_blank\" class=\"buy-me-a-coffee\" style=\"text-align: left;margin-top: 0;\"><img src=\"/assets/frontend/img/buy_me_a_coffee.png\" alt=\"Buy Me a Coffee\" style=\"width: 200px;\" /></a>
                                 </div>
                             </div>
                             <div class=\"col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-6\">

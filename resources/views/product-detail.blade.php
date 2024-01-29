@@ -150,6 +150,7 @@ $hero = new \App\Models\TemplateHeroSection();
                                 <a href="<?=$productAr['github_link']?>"
                                    target="_blank" class="m-btn m-btn-border w-100"> <span></span> View Source Code</a>
                                 <?php } ?>
+                                <a href="https://www.buymeacoffee.com/bipon770j" target="_blank" class="buy-me-a-coffee"><img src="/assets/frontend/img/buy_me_a_coffee.png" alt="Buy Me a Coffee" /></a>
                             </div>
                         </div>
                         <div class="sidebar__banner" data-background="/assets/frontend/img/banner/sidebar-banner.jpg">

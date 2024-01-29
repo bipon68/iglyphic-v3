@@ -69,7 +69,9 @@ $hero = new \App\Models\TemplateHeroSection();
                 <div class="col-xxl-8 col-xl-8 col-lg-8">
                     <div class="product__wrapper">
                         <div class="product__details-thumb w-img mb-30">
-                            <img src="<?=$blogAr['image_url']?>" alt="product-details">
+                            <?php if($blogAr['image_url']){ ?>
+                                <img src="<?=$blogAr['image_url']?>" alt="product-details">
+                            <?php } ?>
                         </div>
                         <div class="product__details-content">
                             <div class="product__tab mb-40">

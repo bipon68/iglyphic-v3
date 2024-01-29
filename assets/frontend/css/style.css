@@ -7041,3 +7041,36 @@ div.product_new_item a {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* CSS added by Arif */
+.raw-html-embed {
+    background: #333;
+    color: #FFF;
+    padding: 20px;
+    margin: -10px 0 20px;
+    border-radius: 5px;
+    word-wrap: break-word;
+    box-decoration-break: clone;
+    font-family: monospace;
+    display: block;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: scroll;
+    max-width: 100%;
+    min-width: 100px;
+}
+
+.header-transparent .main-menu ul li.has-dropdown > a::after {
+    color: #FFF;
+}
+
+.buy-me-a-coffee {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+    
+.buy-me-a-coffee img {
+    width: 100%;
+    max-width: 250px;
+    object-fit: contain;
+}
